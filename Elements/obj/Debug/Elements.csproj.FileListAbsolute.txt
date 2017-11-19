@@ -1,0 +1,6 @@
+C:\Users\Citrullux\Documents\GitHub\Reliability\Elements\bin\Debug\Elements.dll
+C:\Users\Citrullux\Documents\GitHub\Reliability\Elements\bin\Debug\Elements.pdb
+C:\Users\Citrullux\Documents\GitHub\Reliability\Elements\obj\Debug\Elements.csprojResolveAssemblyReference.cache
+C:\Users\Citrullux\Documents\GitHub\Reliability\Elements\obj\Debug\Elements.csproj.CoreCompileInputs.cache
+C:\Users\Citrullux\Documents\GitHub\Reliability\Elements\obj\Debug\Elements.dll
+C:\Users\Citrullux\Documents\GitHub\Reliability\Elements\obj\Debug\Elements.pdb

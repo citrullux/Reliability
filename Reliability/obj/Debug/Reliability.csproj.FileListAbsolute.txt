@@ -1,0 +1,9 @@
+C:\Users\Citrullux\Documents\GitHub\Reliability\Reliability\bin\Debug\Reliability.exe.config
+C:\Users\Citrullux\Documents\GitHub\Reliability\Reliability\bin\Debug\Reliability.exe
+C:\Users\Citrullux\Documents\GitHub\Reliability\Reliability\bin\Debug\Reliability.pdb
+C:\Users\Citrullux\Documents\GitHub\Reliability\Reliability\obj\Debug\Reliability.csprojResolveAssemblyReference.cache
+C:\Users\Citrullux\Documents\GitHub\Reliability\Reliability\obj\Debug\Reliability.Properties.Resources.resources
+C:\Users\Citrullux\Documents\GitHub\Reliability\Reliability\obj\Debug\Reliability.csproj.GenerateResource.Cache
+C:\Users\Citrullux\Documents\GitHub\Reliability\Reliability\obj\Debug\Reliability.csproj.CoreCompileInputs.cache
+C:\Users\Citrullux\Documents\GitHub\Reliability\Reliability\obj\Debug\Reliability.exe
+C:\Users\Citrullux\Documents\GitHub\Reliability\Reliability\obj\Debug\Reliability.pdb
